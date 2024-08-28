@@ -3,7 +3,7 @@
 OMMC is a 501c3 accredited organization that provides accessible,
 high-quality mathematics materials and educational projects online.
 
-The OMMC Atlas is written in Typescript utilizing React and Tailwind.css.
+The OMMC Atlas is written in Typescript utilizing React Fuse template and Tailwind.css.
 The website can be found here: https://ommc-atlas.vercel.app/
 
 Directory
